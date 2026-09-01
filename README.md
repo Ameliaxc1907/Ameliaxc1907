@@ -95,11 +95,16 @@ Built as a real mobile-first project, from database architecture and authenticat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ameliaxc1907&show_icons=true&hide_border=true&bg_color=0d1117&title_color=b794f4&icon_color=b794f4&text_color=c9d1d9&ring_color=b794f4" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ameliaxc1907&theme=github_dark" />
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameliaxc1907&layout=compact&hide_border=true&bg_color=0d1117&title_color=b794f4&text_color=c9d1d9" />
+<br><br>
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ameliaxc1907&theme=github_dark" />
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ameliaxc1907&theme=github_dark" />
 
 </div>
+
 
 <br>
 
