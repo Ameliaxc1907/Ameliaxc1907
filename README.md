@@ -59,3 +59,71 @@ status: "Always learning something new ✦"
 
 </div>
 
+<br>
+
+<h2>⌁ ./featured_projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ASTRA
+
+Personal AI assistant focused on **voice, memory and automation**.
+
+`Python` `AI` `SQLite` `Obsidian`
+
+> Building my own assistant from scratch.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💸 Cifra
+
+Personal finance app designed to make daily expense tracking simple.
+
+`Next.js` `Supabase` `Capacitor` `PostgreSQL`
+
+> Turning personal finance into something actually easy to use.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Architecture
+
+Projects focused on APIs, databases, authentication and distributed systems.
+
+`.NET` `C#` `SQL Server` `Docker`
+
+> Exploring how scalable systems fit together.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✦ More coming soon...
+
+Currently building, experimenting and breaking things until they work.
+
+`Linux` `Automation` `Open Source`
+
+> The best project is usually the next one.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+  <i>Some projects are still evolving — just like me as a developer.</i>
+</p>
+
+
+
