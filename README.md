@@ -41,23 +41,74 @@ status: "Always learning something new ✦"
 
 <div align="center">
 
-<h4>Languages</h4>
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,dart,react,nextjs,flutter,dotnet,nodejs&theme=dark&perline=11" />
 
-<img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,dart&theme=dark" />
+<br><br>
 
-<h4>Frontend & Mobile</h4>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,docker,git,github,linux,vscode,visualstudio&theme=dark&perline=10" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter&theme=dark" />
+<br>
 
-<h4>Backend & Databases</h4>
-
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,supabase,postgres,mysql,mongodb&theme=dark" />
-
-<h4>Tools & Environment</h4>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio&theme=dark" />
+<sub>
+Languages · Frameworks · Databases · Tools
+</sub>
 
 </div>
+
+<br>
+
+<h2>⌁ ./featured_project</h2>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+### Cifra — Personal Finance
+
+A personal finance application focused on making **daily expense and income tracking simple and intuitive**.
+
+Built as a real mobile-first project, from database architecture and authentication to the final Android application.
+
+`Next.js` · `Supabase` · `PostgreSQL` · `Capacitor`
+
+**Currently:** actively developing & improving ✦
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+### 01
+
+**CURRENT PROJECT**
+
+`BUILDING`
+
+✦
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2>⌁ ./github_activity</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ameliaxc1907&show_icons=true&hide_border=true&bg_color=0d1117&title_color=b794f4&icon_color=b794f4&text_color=c9d1d9&ring_color=b794f4" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameliaxc1907&layout=compact&hide_border=true&bg_color=0d1117&title_color=b794f4&text_color=c9d1d9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`> currently turning coffee into commits...`
+
+</div>
+
 
 <br>
 
