@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=B794F4&center=true&vCenter=true&width=600&lines=Building+things+I+wish+existed.;Software+%E2%80%A2+Linux+%E2%80%A2+AI+%E2%80%A2+Automation;Always+learning+something+new." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=B794F4&center=true&vCenter=true&width=600&lines=Building+things+I+wish+existed.;Software+%E2%80%A2+Linux+%E2%80%A2+AI+%E2%80%A2+Automation;Always+learning+something+new." alt="Typing SVG" />
 
 <br>
 
@@ -47,7 +47,7 @@ status: "Always learning something new ✦"
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,docker,git,github,linux,vscode,visualstudio&theme=dark&perline=10" />
 
-<br>
+<br><br>
 
 <sub>Languages · Frameworks · Databases · Tools</sub>
 
@@ -70,10 +70,10 @@ A mobile-first personal finance application for tracking expenses, managing budg
 
 `Next.js` · `Supabase` · `PostgreSQL` · `Capacitor`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Ameliaxc1907/Cifra-app">
-  <b>VIEW PROJECT ↗</b>
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-↗-B794F4?style=for-the-badge&labelColor=0D1117" alt="View Cifra"/>
 </a>
 
 </td>
@@ -99,21 +99,9 @@ A mobile-first personal finance application for tracking expenses, managing budg
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ameliaxc1907&theme=github_dark" />
+<sub>building · experimenting · learning · shipping</sub>
 
-<br>
-
-<sub>
-More repositories, languages & experiments coming soon.
-</sub>
-
-</div>
-
-<br>
-
-<h2>⌁ ./contributions</h2>
-
-<div align="center">
+<br><br>
 
 <img width="100%" src="https://raw.githubusercontent.com/Ameliaxc1907/Ameliaxc1907/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
@@ -125,18 +113,21 @@ More repositories, languages & experiments coming soon.
 
 <div align="center">
 
-<a href="https://github.com/Ameliaxc1907">
-  <img src="https://img.shields.io/badge/GitHub-Ameliaxc1907-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+If you're interested in software, ideas or building cool things,<br>
+feel free to explore my projects.
+</p>
 
-<br><br>
+<br>
 
-`> currently turning ideas into commits...`
+`> see you in the next commit_`
 
 <br><br>
 
 ✦
 
-<sub>Thanks for visiting my little corner of GitHub.</sub>
+<br>
+
+<sub>Amelia Vergara · Software Developer</sub>
 
 </div>
