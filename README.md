@@ -2,13 +2,7 @@
 
 <img width="100%" src="./assets/banner.svg" alt="Amelia Vergara Banner" />
 
-<br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=B794F4&center=true&vCenter=true&width=650&height=45&lines=Software+%E2%80%A2+Linux+%E2%80%A2+AI+%E2%80%A2+Automation"
-  alt="Typing SVG"
-/>
-<br>
+<br><br>
 
 `> code · create · learn · repeat_`
 
