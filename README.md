@@ -4,8 +4,10 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=B794F4&center=true&vCenter=true&width=600&lines=Building+things+I+wish+existed.;Software+%E2%80%A2+Linux+%E2%80%A2+AI+%E2%80%A2+Automation;Always+learning+something+new." alt="Typing SVG" />
-
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=B794F4&center=true&vCenter=true&width=650&height=45&lines=Software+%E2%80%A2+Linux+%E2%80%A2+AI+%E2%80%A2+Automation"
+  alt="Typing SVG"
+/>
 <br>
 
 `> code · create · learn · repeat_`
