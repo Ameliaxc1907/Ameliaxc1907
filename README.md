@@ -1,12 +1,12 @@
 <div align="center">
 
-# ✦ Amelia Vergara ✦
+<img width="100%" src="./assets/banner.svg" alt="Amelia Vergara Banner" />
 
-### Software Developer · Full Stack
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=B794F4&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code...;Building+things+I+wish+existed.;Software+%E2%80%A2+Linux+%E2%80%A2+AI+%E2%80%A2+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=B794F4&center=true&vCenter=true&width=600&lines=Building+things+I+wish+existed.;Software+%E2%80%A2+Linux+%E2%80%A2+AI+%E2%80%A2+Automation;Always+learning+something+new." />
 
-<br/>
+<br>
 
 `> code · create · learn · repeat_`
 
@@ -19,7 +19,7 @@
 ```yaml
 name: Amelia Vergara
 located_in: Ecuador
-role: Software Developer
+role: Software Developer · Full Stack
 
 currently:
   - Building full-stack applications
@@ -49,9 +49,7 @@ status: "Always learning something new ✦"
 
 <br>
 
-<sub>
-Languages · Frameworks · Databases · Tools
-</sub>
+<sub>Languages · Frameworks · Databases · Tools</sub>
 
 </div>
 
@@ -61,13 +59,14 @@ Languages · Frameworks · Databases · Tools
 
 <table>
 <tr>
-<td width="70%" valign="top">
+
+<td width="72%" valign="top">
 
 ### Cifra — Personal Finance
 
-A personal finance application focused on making **daily expense and income tracking simple and intuitive**.
+A mobile-first personal finance application focused on making **daily expense and income tracking simple and intuitive**.
 
-Built as a real mobile-first project, from database architecture and authentication to the final Android application.
+From database architecture and authentication to the final Android application.
 
 `Next.js` · `Supabase` · `PostgreSQL` · `Capacitor`
 
@@ -75,7 +74,7 @@ Built as a real mobile-first project, from database architecture and authenticat
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
 ### 01
 
@@ -86,6 +85,7 @@ Built as a real mobile-first project, from database architecture and authenticat
 ✦
 
 </td>
+
 </tr>
 </table>
 
@@ -97,11 +97,11 @@ Built as a real mobile-first project, from database architecture and authenticat
 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ameliaxc1907&theme=github_dark" />
 
-<br><br>
+<br>
 
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ameliaxc1907&theme=github_dark" />
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ameliaxc1907&theme=github_dark" />
+<sub>
+More repositories, languages & experiments coming soon.
+</sub>
 
 </div>
 
@@ -111,10 +111,9 @@ Built as a real mobile-first project, from database architecture and authenticat
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ameliaxc1907/Ameliaxc1907/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img width="100%" src="https://raw.githubusercontent.com/Ameliaxc1907/Ameliaxc1907/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
-
 
 <br>
 
@@ -123,14 +122,10 @@ Built as a real mobile-first project, from database architecture and authenticat
 <div align="center">
 
 <a href="https://github.com/Ameliaxc1907">
-  <img src="https://img.shields.io/badge/GitHub-Ameliaxc1907-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Ameliaxc1907-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 `> currently turning ideas into commits...`
 
