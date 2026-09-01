@@ -103,78 +103,26 @@ Built as a real mobile-first project, from database architecture and authenticat
 
 <br>
 
+<h2>⌁ ./connect</h2>
+
 <div align="center">
 
-`> currently turning coffee into commits...`
+<a href="https://github.com/Ameliaxc1907">
+  <img src="https://img.shields.io/badge/GitHub-Ameliaxc1907-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
-
 
 <br>
 
-<h2>⌁ ./featured_projects</h2>
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`> currently turning ideas into commits...`
 
-### 🤖 ASTRA
+<br><br>
 
-Personal AI assistant focused on **voice, memory and automation**.
+✦
 
-`Python` `AI` `SQLite` `Obsidian`
-
-> Building my own assistant from scratch.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💸 Cifra
-
-Personal finance app designed to make daily expense tracking simple.
-
-`Next.js` `Supabase` `Capacitor` `PostgreSQL`
-
-> Turning personal finance into something actually easy to use.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Architecture
-
-Projects focused on APIs, databases, authentication and distributed systems.
-
-`.NET` `C#` `SQL Server` `Docker`
-
-> Exploring how scalable systems fit together.
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ More coming soon...
-
-Currently building, experimenting and breaking things until they work.
-
-`Linux` `Automation` `Open Source`
-
-> The best project is usually the next one.
-
-</td>
-</tr>
-</table>
+<sub>Thanks for visiting my little corner of GitHub.</sub>
 
 </div>
-
-<p align="center">
-  <i>Some projects are still evolving — just like me as a developer.</i>
-</p>
-
-
-
