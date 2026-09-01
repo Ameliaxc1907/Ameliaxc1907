@@ -34,3 +34,28 @@ interests:
 
 status: "Always learning something new ✦"
 ```
+
+<br>
+
+<h2>⌁ ./tech_stack</h2>
+
+<div align="center">
+
+<h4>Languages</h4>
+
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,dart&theme=dark" />
+
+<h4>Frontend & Mobile</h4>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter&theme=dark" />
+
+<h4>Backend & Databases</h4>
+
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,supabase,postgres,mysql,mongodb&theme=dark" />
+
+<h4>Tools & Environment</h4>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio&theme=dark" />
+
+</div>
+
