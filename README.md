@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ameliaxc1907/Ameliaxc1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ Amelia Vergara ✦
 
-Here are some ideas to get you started:
+### Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=B794F4&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code...;Building+things+I+wish+existed.;Software+%E2%80%A2+Linux+%E2%80%A2+AI+%E2%80%A2+Automation" alt="Typing SVG" />
+
+<br/>
+
+`> code · create · learn · repeat_`
+
+</div>
