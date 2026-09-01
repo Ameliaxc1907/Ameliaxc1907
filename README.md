@@ -105,6 +105,16 @@ Built as a real mobile-first project, from database architecture and authenticat
 
 </div>
 
+<br>
+
+<h2>⌁ ./contributions</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ameliaxc1907/Ameliaxc1907/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
 
 <br>
 
