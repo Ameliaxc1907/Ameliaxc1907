@@ -64,13 +64,17 @@ status: "Always learning something new ✦"
 
 ### Cifra — Personal Finance
 
-A mobile-first personal finance application focused on making **daily expense and income tracking simple and intuitive**.
+A mobile-first personal finance application for tracking expenses, managing budgets, savings goals and understanding your financial habits.
 
-From database architecture and authentication to the final Android application.
+<br>
 
 `Next.js` · `Supabase` · `PostgreSQL` · `Capacitor`
 
-**Currently:** actively developing & improving ✦
+<br>
+
+<a href="https://github.com/Ameliaxc1907/Cifra-app">
+  <b>VIEW PROJECT ↗</b>
+</a>
 
 </td>
 
@@ -78,9 +82,9 @@ From database architecture and authentication to the final Android application.
 
 ### 01
 
-**CURRENT PROJECT**
+**FEATURED PROJECT**
 
-`BUILDING`
+`COMPLETE`
 
 ✦
 
